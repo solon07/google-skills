@@ -1,0 +1,15 @@
+{
+  "name": "google-analytics",
+  "displayName": "Google Analytics",
+  "version": "1.0.0",
+  "description": "Google Analytics Admin API e Data API: configuração de propriedades e extração de relatórios. (2 skills)",
+  "author": {
+    "name": "Google LLC"
+  },
+  "homepage": "https://github.com/solon07/google-skills",
+  "keywords": [
+    "google",
+    "google-cloud",
+    "analytics"
+  ]
+}

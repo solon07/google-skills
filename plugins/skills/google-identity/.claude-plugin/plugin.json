@@ -1,0 +1,15 @@
+{
+  "name": "google-identity",
+  "displayName": "Google Identity",
+  "version": "1.0.0",
+  "description": "OAuth 2.0 e identidade Google, incluindo adoção de DPoP (RFC 9449) para sender-constrained refresh tokens. (1 skills)",
+  "author": {
+    "name": "Google LLC"
+  },
+  "homepage": "https://github.com/solon07/google-skills",
+  "keywords": [
+    "google",
+    "google-cloud",
+    "identity"
+  ]
+}

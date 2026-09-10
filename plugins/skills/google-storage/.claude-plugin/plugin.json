@@ -1,0 +1,15 @@
+{
+  "name": "google-storage",
+  "displayName": "Google Cloud Filestore",
+  "version": "1.0.0",
+  "description": "Filestore: auditoria, autoscaling e navegação NFS. (3 skills)",
+  "author": {
+    "name": "Google LLC"
+  },
+  "homepage": "https://github.com/solon07/google-skills",
+  "keywords": [
+    "google",
+    "google-cloud",
+    "storage"
+  ]
+}

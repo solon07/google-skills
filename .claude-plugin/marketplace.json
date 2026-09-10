@@ -157,6 +157,61 @@
       "name": "google-cloud-developer",
       "source": "./plugins/cloud/google-cloud-developer",
       "description": "Core Google Cloud guidance for coding agents: first-project onboarding, authentication and credential selection, and safety-critical validation for gcloud CLI commands. Includes the Google Developer Knowledge MCP server for grounded, up-to-date Google Cloud documentation."
+    },
+    {
+      "name": "google-gke",
+      "source": "./plugins/skills/google-gke",
+      "description": "GKE: criação de cluster, autoscaling, networking, segurança, upgrades, custo, observabilidade e troubleshooting de workloads e de GPU/TPU. (32 skills)"
+    },
+    {
+      "name": "google-ai-platform",
+      "source": "./plugins/skills/google-ai-platform",
+      "description": "Vertex/Agent Platform e Gemini: deploy e tuning de modelos, RAG engine, prompt management, avaliação, inferência, APIs Gemini e SDK Genkit. (22 skills)"
+    },
+    {
+      "name": "google-data",
+      "source": "./plugins/skills/google-data",
+      "description": "BigQuery, AlloyDB, Bigtable, Spanner, Cloud SQL, Data Lineage e Managed Airflow (Composer): modelagem, consulta, ingestão e orquestração. (13 skills)"
+    },
+    {
+      "name": "google-observability",
+      "source": "./plugins/skills/google-observability",
+      "description": "Cloud Logging, Cloud Monitoring, PromQL, SLO/alerting e observabilidade de rede no Google Cloud. (9 skills)"
+    },
+    {
+      "name": "google-security-iam",
+      "source": "./plugins/skills/google-security-iam",
+      "description": "IAM (políticas, simulator, PAM, troubleshooting), Security Command Center e avaliação de cobertura de detecção. (6 skills)"
+    },
+    {
+      "name": "google-storage",
+      "source": "./plugins/skills/google-storage",
+      "description": "Filestore: auditoria, autoscaling e navegação NFS. (3 skills)"
+    },
+    {
+      "name": "google-architecture",
+      "source": "./plugins/skills/google-architecture",
+      "description": "Well-Architected Framework, arquiteturas de solução de referência (agentic AI, RAG, serverless, lakehouse) e Application Design Center. (19 skills)"
+    },
+    {
+      "name": "google-cloud-core",
+      "source": "./plugins/skills/google-cloud-core",
+      "description": "Cloud Run, Cloud Build, Firebase, Workload Manager, frontend global e device platform — o básico de compute e deploy no Google Cloud. (6 skills)"
+    },
+    {
+      "name": "google-ads",
+      "source": "./plugins/skills/google-ads",
+      "description": "Google Ads API, Data Manager API, Google Mobile Ads SDK (banner, interstitial, rewarded) e IMA SDK. (14 skills)"
+    },
+    {
+      "name": "google-analytics",
+      "source": "./plugins/skills/google-analytics",
+      "description": "Google Analytics Admin API e Data API: configuração de propriedades e extração de relatórios. (2 skills)"
+    },
+    {
+      "name": "google-identity",
+      "source": "./plugins/skills/google-identity",
+      "description": "OAuth 2.0 e identidade Google, incluindo adoção de DPoP (RFC 9449) para sender-constrained refresh tokens. (1 skills)"
     }
   ]
 }

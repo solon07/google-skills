@@ -1,0 +1,15 @@
+{
+  "name": "google-gke",
+  "displayName": "Google Kubernetes Engine",
+  "version": "1.0.0",
+  "description": "GKE: criação de cluster, autoscaling, networking, segurança, upgrades, custo, observabilidade e troubleshooting de workloads e de GPU/TPU. (32 skills)",
+  "author": {
+    "name": "Google LLC"
+  },
+  "homepage": "https://github.com/solon07/google-skills",
+  "keywords": [
+    "google",
+    "google-cloud",
+    "gke"
+  ]
+}

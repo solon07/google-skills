@@ -1,0 +1,15 @@
+{
+  "name": "google-observability",
+  "displayName": "Google Cloud Observability",
+  "version": "1.0.0",
+  "description": "Cloud Logging, Cloud Monitoring, PromQL, SLO/alerting e observabilidade de rede no Google Cloud. (9 skills)",
+  "author": {
+    "name": "Google LLC"
+  },
+  "homepage": "https://github.com/solon07/google-skills",
+  "keywords": [
+    "google",
+    "google-cloud",
+    "observability"
+  ]
+}

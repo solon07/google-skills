@@ -1,0 +1,15 @@
+{
+  "name": "google-ads",
+  "displayName": "Google Ads & Mobile Ads",
+  "version": "1.0.0",
+  "description": "Google Ads API, Data Manager API, Google Mobile Ads SDK (banner, interstitial, rewarded) e IMA SDK. (14 skills)",
+  "author": {
+    "name": "Google LLC"
+  },
+  "homepage": "https://github.com/solon07/google-skills",
+  "keywords": [
+    "google",
+    "google-cloud",
+    "ads"
+  ]
+}

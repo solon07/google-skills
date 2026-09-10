@@ -1,0 +1,15 @@
+{
+  "name": "google-security-iam",
+  "displayName": "Google Cloud Security & IAM",
+  "version": "1.0.0",
+  "description": "IAM (políticas, simulator, PAM, troubleshooting), Security Command Center e avaliação de cobertura de detecção. (6 skills)",
+  "author": {
+    "name": "Google LLC"
+  },
+  "homepage": "https://github.com/solon07/google-skills",
+  "keywords": [
+    "google",
+    "google-cloud",
+    "security-iam"
+  ]
+}
